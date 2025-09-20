@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Test Kernel
+kernel.string=Exynoobs Kernel
 do.devicecheck=1
 do.soccheck=1
 do.modules=0
